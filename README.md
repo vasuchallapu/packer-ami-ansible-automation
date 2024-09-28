@@ -30,7 +30,7 @@ The AMI is pre-configured with essential software:
         └── build.yml  # GitHub Actions workflow
 ```                                                            
 
-## Getting Started
+## Getting Started Process
 
 ### 1. Prerequisites
 - **AWS Account**
